@@ -19,4 +19,4 @@
 2. [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master/tree/master/problems)
 
 ## 算法面试
-1. [机器学习面试题汇总 知乎专栏]（https://www.zhihu.com/column/c_129612503）
+1. [机器学习面试题汇总 知乎专栏](https://www.zhihu.com/column/c_12961250)
