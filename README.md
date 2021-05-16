@@ -2,7 +2,7 @@
 
 ## 关于github的使用
 1. [如何使用Github实现协同工作（例子：两人合作写代码)](https://blog.csdn.net/Jenny_WJN/article/details/104209062?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control)\
-2. [如何使用github](https://www.zhihu.com/question/30119197/answer/1877067450)
+2. [如何使用github：知乎](https://www.zhihu.com/question/30119197/answer/1877067450)
 3. [多人写作：远程同步](https://blog.csdn.net/qq_39584294/article/details/81393751?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-5&spm=1001.2101.3001.4242)
 
 
