@@ -17,7 +17,7 @@
 
 
 ## Leetcode刷题指南
-1. [leetcode python](https://lei-d.gitbook.io/leetcode/)
+1. [leetcode python](https://lei-d.gitbook.io/leetcode/)\
 2. [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master/tree/master/problems)
 
 ## 算法面试
