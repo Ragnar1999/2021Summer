@@ -12,12 +12,12 @@
 2. [Stanford CS229](http://cs229.stanford.edu/syllabus.html)
 
 ## 各自学校课程的交流
-1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/)\
+1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/)
 2. [剑桥Probablistic ML](https://www.cl.cam.ac.uk/teaching/2021/LE49/materials.html)
 
 
 ## Leetcode刷题指南
-1. [leetcode python](https://lei-d.gitbook.io/leetcode/)\
+1. [leetcode python](https://lei-d.gitbook.io/leetcode/)
 2. [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master/tree/master/problems)
 
 ## 算法面试
