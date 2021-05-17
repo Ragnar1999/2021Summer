@@ -9,7 +9,7 @@
 
 ## 一些网课的推荐，大家可以更新
 1. [动手学习深度学习：pdf,代码](http://zh.d2l.ai/)
-2. [Stanford CS229](http://cs229.stanford.edu/syllabus.html)
+2. [Stanford CS229](http://cs229.stanford.edu/syllabus.html),[18版答案](https://github.com/Kivy-CN/Stanford-CS-229-CN)
 
 ## 各自学校课程的交流
 1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/)
