@@ -8,7 +8,7 @@
 
 
 ## 一些网课的推荐，大家可以更新
-1. [动手学习深度学习：pdf,代码](http://zh.d2l.ai/)
+1. [动手学习深度学习：pdf,代码](http://zh.d2l.ai/)\
 2.[Stanford CS229]（http://cs229.stanford.edu/syllabus.html）
 
 ## 各自学校课程的交流
