@@ -15,7 +15,8 @@
 1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/)
 2. [剑桥Probablistic ML](https://www.cl.cam.ac.uk/teaching/2021/LE49/materials.html)
 
-
+## Latex使用
+1. [手把手教你在Mac/Windows下搭建实用的LaTex编译环境以及其使用初步](https://zhuanlan.zhihu.com/p/27211972)
 ## Leetcode刷题指南
 1. [leetcode python](https://lei-d.gitbook.io/leetcode/)
 2. [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master/tree/master/problems)
