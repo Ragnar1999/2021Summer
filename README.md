@@ -10,9 +10,10 @@
 ## 一些网课的推荐，大家可以更新
 1. [动手学习深度学习：pdf,代码](http://zh.d2l.ai/)
 2. [Stanford CS229](http://cs229.stanford.edu/syllabus.html),[18版答案](https://github.com/Kivy-CN/Stanford-CS-229-CN),[video](https://www.bilibili.com/video/BV16J411t71N?from=search&seid=12149886800661889550)
-
+## 生信
+1. [Bioinformatics Data Skills代码](https://github.com/vsbuffalo/bds-files)，[pdf](https://github.com/Ragnar1999/2021Summer/blob/main/Bioinformatics_Data_Skills_Reproducible_and_Robus_2580594_(z-lib.org).pdf)
 ## 各自学校课程的交流
-1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/)
+1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/),[知乎PRML分享](https://www.zhihu.com/column/c_67216774)
 2. [剑桥Probablistic ML](https://www.cl.cam.ac.uk/teaching/2021/LE49/materials.html)
 
 ## Latex使用
