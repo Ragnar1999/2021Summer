@@ -13,6 +13,7 @@
 1. [Linux, Shell教程](https://www.runoob.com/linux/linux-install.html)
 ## 生信
 1. [Bioinformatics Data Skills代码](https://github.com/vsbuffalo/bds-files)，[pdf](https://github.com/Ragnar1999/2021Summer/blob/main/Bioinformatics_Data_Skills_Reproducible_and_Robus_2580594_(z-lib.org).pdf)
+2. [EMBL On-Demand Training](https://www.ebi.ac.uk/training/on-demand)
 ## 各自学校课程的交流
 1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/),[知乎PRML分享](https://www.zhihu.com/column/c_67216774)
 2. [剑桥Probablistic ML](https://www.cl.cam.ac.uk/teaching/2021/LE49/materials.html)
