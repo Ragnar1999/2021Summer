@@ -12,6 +12,7 @@
 ## Linux
 1. [Linux, Shell教程](https://www.runoob.com/linux/linux-install.html)\
 2. [VirtualBox-->Deepin指南](https://zhuanlan.zhihu.com/p/133094497),  [VB增强功能](https://zhuanlan.zhihu.com/p/80904653)
+3. [生信宝典-Linux教程](http://www.ehbio.com/tutorial/%E7%94%9F%E4%BF%A1%E5%AE%9D%E5%85%B8-Linux%E6%95%99%E7%A8%8B.pdf)
 ## 生信
 1. [Bioinformatics Data Skills代码](https://github.com/vsbuffalo/bds-files)，[pdf](https://github.com/Ragnar1999/2021Summer/blob/main/Bioinformatics_Data_Skills_Reproducible_and_Robus_2580594_(z-lib.org).pdf)
 2. [EMBL On-Demand Training](https://www.ebi.ac.uk/training/on-demand)
