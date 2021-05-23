@@ -10,10 +10,12 @@
 1. [动手学习深度学习：pdf,代码](http://zh.d2l.ai/)
 2. [Stanford CS229](http://cs229.stanford.edu/syllabus.html),[18版答案](https://github.com/Kivy-CN/Stanford-CS-229-CN),[video](https://www.bilibili.com/video/BV16J411t71N?from=search&seid=12149886800661889550)
 ## Linux
-1. [Linux, Shell教程](https://www.runoob.com/linux/linux-install.html)
+1. [Linux, Shell教程](https://www.runoob.com/linux/linux-install.html)\
+2. [VirtualBox-->Deepin指南](https://zhuanlan.zhihu.com/p/133094497),  [VB增强功能](https://zhuanlan.zhihu.com/p/80904653)
 ## 生信
 1. [Bioinformatics Data Skills代码](https://github.com/vsbuffalo/bds-files)，[pdf](https://github.com/Ragnar1999/2021Summer/blob/main/Bioinformatics_Data_Skills_Reproducible_and_Robus_2580594_(z-lib.org).pdf)
 2. [EMBL On-Demand Training](https://www.ebi.ac.uk/training/on-demand)
+3. [易生信培训资料汇总](http://www.ehbio.com/Training/index.php/Home/Index/Articles.html)
 ## 各自学校课程的交流
 1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/),[知乎PRML分享](https://www.zhihu.com/column/c_67216774)
 2. [剑桥Probablistic ML](https://www.cl.cam.ac.uk/teaching/2021/LE49/materials.html)
