@@ -1,4 +1,6 @@
 # 分享一些大家会用到的
+## Deep Learning
+1. [Homework](dl/)
 ## vscode的一些操作
 1. [代码自动对齐，yapf插件，快捷键alt+shift+F](https://blog.csdn.net/lemonbit/article/details/118077612)
 ## 关于github的使用
@@ -21,7 +23,8 @@
 3. [易生信培训资料汇总](http://www.ehbio.com/Training/index.php/Home/Index/Articles.html)
 ## 各自学校课程的交流
 1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/),[知乎PRML分享](https://www.zhihu.com/column/c_67216774)
-2. [剑桥Probablistic ML](https://www.cl.cam.ac.uk/teaching/2021/LE49/materials.html)
+2. [爱丁堡MLP](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_86205_1&content_id=_5970402_1&mode=reset)
+3. [剑桥Probablistic ML](https://www.cl.cam.ac.uk/teaching/2021/LE49/materials.html)
 
 ## Latex使用
 1. [手把手教你在Mac/Windows下搭建实用的LaTex编译环境以及其使用初步](https://zhuanlan.zhihu.com/p/27211972)
