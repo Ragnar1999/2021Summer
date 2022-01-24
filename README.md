@@ -22,10 +22,7 @@
 2. [VirtualBox-->Deepin指南](https://zhuanlan.zhihu.com/p/133094497),  [VB增强功能](https://zhuanlan.zhihu.com/p/80904653)
 3. [生信宝典-Linux教程](http://www.ehbio.com/tutorial/%E7%94%9F%E4%BF%A1%E5%AE%9D%E5%85%B8-Linux%E6%95%99%E7%A8%8B.pdf)
 4. [配色](https://blog.csdn.net/weixin_43734095/article/details/105035484?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.control)，[配置共享文件](https://blog.csdn.net/K12706/article/details/108859979?ops_request_misc=&request_id=&biz_id=102&utm_term=Deepin%E9%85%8D%E7%BD%AE%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E5%A4%B9&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-4-.first_rank_v2_pc_rank_v29&spm=1018.2226.3001.4187)
-## 生信
-1. [Bioinformatics Data Skills代码](https://github.com/vsbuffalo/bds-files)，[pdf](https://github.com/Ragnar1999/2021Summer/blob/main/Bioinformatics_Data_Skills_Reproducible_and_Robus_2580594_(z-lib.org).pdf)
-2. [EMBL On-Demand Training](https://www.ebi.ac.uk/training/on-demand)
-3. [易生信培训资料汇总](http://www.ehbio.com/Training/index.php/Home/Index/Articles.html)
+
 ## 各自学校课程的交流
 1. [爱丁堡MLPR](https://mlpr.inf.ed.ac.uk/2020/),[知乎PRML分享](https://www.zhihu.com/column/c_67216774)
 2. [爱丁堡MLP](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_86205_1&content_id=_5970402_1&mode=reset)
