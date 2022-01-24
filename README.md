@@ -4,8 +4,8 @@
 2. [Transformer页面-->>](TFM.md)
 ## vscode的一些操作
 1. 一些插件
-    *[代码自动对齐，yapf插件，快捷键alt+shift+F](https://blog.csdn.net/lemonbit/article/details/118077612)
-    *括号高亮Bracket Pair Colorizer
+    * [代码自动对齐，yapf插件，快捷键alt+shift+F](https://blog.csdn.net/lemonbit/article/details/118077612)
+    * 括号高亮Bracket Pair Colorizer
 3. 一些常用的快捷键总结：
 
 ## 关于github的使用
