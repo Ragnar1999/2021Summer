@@ -3,8 +3,10 @@
 1. [Homework](dl/)
 2. [Transformer页面-->>](TFM.md)
 ## vscode的一些操作
-1. [代码自动对齐，yapf插件，快捷键alt+shift+F](https://blog.csdn.net/lemonbit/article/details/118077612)
-2. 一些常用的快捷键总结：
+1. 一些插件
+    *[代码自动对齐，yapf插件，快捷键alt+shift+F](https://blog.csdn.net/lemonbit/article/details/118077612)
+    *括号高亮Bracket Pair Colorizer
+3. 一些常用的快捷键总结：
 
 ## 关于github的使用
 1. [如何使用Github实现协同工作（例子：两人合作写代码)](https://blog.csdn.net/Jenny_WJN/article/details/104209062?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control)\
